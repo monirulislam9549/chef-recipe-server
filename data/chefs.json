@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "chefPicture": "https://example.com/chef1.jpg",
+        "chefName": "John Smith",
+        "yearsOfExperience": 10,
+        "numberOfRecipes": 50,
+        "likes": 100,
+        "bio": "John Smith is a renowned chef with over 10 years of experience in the industry. He has created over 50 unique recipes that have earned him a loyal following of food enthusiasts. In his free time, John enjoys experimenting with new ingredients and techniques to create innovative dishes.",
+        "recipe": {
+            "recipeName": "Vegetarian Pad Thai Beef StroganoffChicke AlfredoGarlic Butter Steak Bites",
+            "ingredients": "Salt Pepper Olive oil Garlic Onion",
+            "method": "Rinse the lettuce and tear it into bite-sized pieces Slice the tomatoes and cucumber into bite-sized pieces.Peel and grate the carrots.Slice the red onion thinly.Add all the vegetables to a large salad bowl and toss to combine.Serve with your favorite salad dressing.",
+            "rating": 4.0
+        }
+    },
+    {
+        "id": 2,
+        "chefPicture": "https://example.com/chef1.jpg",
+        "chefName": "John Doe",
+        "yearsOfExperience": 11,
+        "numberOfRecipes": 51,
+        "likes": 101,
+        "bio": "John Smith is a renowned chef with over 10 years of experience in the industry. He has created over 50 unique recipes that have earned him a loyal following of food enthusiasts. In his free time, John enjoys experimenting with new ingredients and techniques to create innovative dishes.",
+        "recipe": {
+            "recipeName": "Vegetarian Pad Thai Beef Stroganoff Chicken AlfredoGarlic Butter Steak Bites",
+            "ingredients": "Salt Pepper Olive oil Garlic Onion",
+            "method": "Rinse the lettuce and tear it into bite-sized pieces Slice the tomatoes and cucumber into bite-sized pieces.Peel and grate the carrots.Slice the red onion thinly.Add all the vegetables to a large salad bowl and toss to combine.Serve with your favorite salad dressing.",
+            "rating": 3.5
+        }
+    },
+    {
+        "id": 3,
+        "chefPicture": "https://example.com/chef1.jpg",
+        "chefName": "John Mia",
+        "yearsOfExperience": 13,
+        "numberOfRecipes": 48,
+        "likes": 70,
+        "bio": "John Smith is a renowned chef with over 10 years of experience in the industry. He has created over 50 unique recipes that have earned him a loyal following of food enthusiasts. In his free time, John enjoys experimenting with new ingredients and techniques to create innovative dishes.",
+        "recipe": {
+            "recipeName": "Vegetarian Pad Thai Beef StroganoffChicke AlfredoGarlic Butter Steak Bites",
+            "ingredients": "Salt Pepper Olive oil Garlic Onion",
+            "method": "Rinse the lettuce and tear it into bite-sized pieces Slice the tomatoes and cucumber into bite-sized pieces.Peel and grate the carrots.Slice the red onion thinly.Add all the vegetables to a large salad bowl and toss to combine.Serve with your favorite salad dressing.",
+            "rating": 4.5
+        }
+    },
+    {
+        "id": 4,
+        "chefPicture": "https://example.com/chef1.jpg",
+        "chefName": "John Smith",
+        "yearsOfExperience": 8,
+        "numberOfRecipes": 57,
+        "likes": 105,
+        "bio": "John Smith is a renowned chef with over 10 years of experience in the industry. He has created over 50 unique recipes that have earned him a loyal following of food enthusiasts. In his free time, John enjoys experimenting with new ingredients and techniques to create innovative dishes.",
+        "recipe": {
+            "recipeName": "Vegetarian Pad Thai Beef StroganoffChicke AlfredoGarlic Butter Steak Bites",
+            "ingredients": "Salt Pepper Olive oil Garlic Onion",
+            "method": "Rinse the lettuce and tear it into bite-sized pieces Slice the tomatoes and cucumber into bite-sized pieces.Peel and grate the carrots.Slice the red onion thinly.Add all the vegetables to a large salad bowl and toss to combine.Serve with your favorite salad dressing.",
+            "rating": 3.0
+        }
+    },
+    {
+        "id": 5,
+        "chefPicture": "https://example.com/chef1.jpg",
+        "chefName": "John Smith",
+        "yearsOfExperience": 9,
+        "numberOfRecipes": 60,
+        "likes": 9,
+        "bio": "John Smith is a renowned chef with over 10 years of experience in the industry. He has created over 50 unique recipes that have earned him a loyal following of food enthusiasts. In his free time, John enjoys experimenting with new ingredients and techniques to create innovative dishes.",
+        "recipe": {
+            "recipeName": "Vegetarian Pad Thai Beef StroganoffChicke AlfredoGarlic Butter Steak Bites",
+            "ingredients": "Salt Pepper Olive oil Garlic Onion",
+            "method": "Rinse the lettuce and tear it into bite-sized pieces Slice the tomatoes and cucumber into bite-sized pieces.Peel and grate the carrots.Slice the red onion thinly.Add all the vegetables to a large salad bowl and toss to combine.Serve with your favorite salad dressing.",
+            "rating": 4.7
+        }
+    },
+    {
+        "id": 6,
+        "chefPicture": "https://example.com/chef1.jpg",
+        "chefName": "John Katra",
+        "yearsOfExperience": 15,
+        "numberOfRecipes": 58,
+        "likes": 112,
+        "bio": "John Smith is a renowned chef with over 10 years of experience in the industry. He has created over 50 unique recipes that have earned him a loyal following of food enthusiasts. In his free time, John enjoys experimenting with new ingredients and techniques to create innovative dishes.",
+        "recipe": {
+            "recipeName": "Vegetarian Pad Thai Beef StroganoffChicke AlfredoGarlic Butter Steak Bites",
+            "ingredients": "Salt Pepper Olive oil Garlic Onion",
+            "method": "Rinse the lettuce and tear it into bite-sized pieces Slice the tomatoes and cucumber into bite-sized pieces.Peel and grate the carrots.Slice the red onion thinly.Add all the vegetables to a large salad bowl and toss to combine.Serve with your favorite salad dressing.",
+            "rating": 5
+        }
+    }
+]
