@@ -17,7 +17,9 @@ app.get('/recipe', (req, res) => {
 app.get('/recipe/:id', (req, res) => {
     const id = req.params.id;
     console.log(id);
-
+    const selectedRecipeDetails = recipe.find(r => r.id == id)
+    res.send(selectedRecipeDetails)
+    console.log(selectedRecipeDetails);
 })
 
 
