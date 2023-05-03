@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "chefPicture": "https://example.com/chef1.jpg",
+        "chefPicture": "https://i.ibb.co/jJCYT09/pexels-ron-lach-8879620.jpg",
         "chefName": "John Smith",
         "yearsOfExperience": 10,
         "numberOfRecipes": 50,
@@ -16,7 +16,7 @@
     },
     {
         "id": 2,
-        "chefPicture": "https://example.com/chef1.jpg",
+        "chefPicture": "https://i.ibb.co/Mfwtgj6/pexels-cottonbro-studio-4253706.jpg",
         "chefName": "John Doe",
         "yearsOfExperience": 11,
         "numberOfRecipes": 51,
@@ -31,7 +31,7 @@
     },
     {
         "id": 3,
-        "chefPicture": "https://example.com/chef1.jpg",
+        "chefPicture": "https://i.ibb.co/kKnbRKP/pexels-tirachard-kumtanom-887827.jpg",
         "chefName": "John Mia",
         "yearsOfExperience": 13,
         "numberOfRecipes": 48,
@@ -46,7 +46,7 @@
     },
     {
         "id": 4,
-        "chefPicture": "https://example.com/chef1.jpg",
+        "chefPicture": "https://i.ibb.co/XxF20mn/pexels-gustavo-fring-6050337.jpg",
         "chefName": "John Smith",
         "yearsOfExperience": 8,
         "numberOfRecipes": 57,
@@ -61,7 +61,7 @@
     },
     {
         "id": 5,
-        "chefPicture": "https://example.com/chef1.jpg",
+        "chefPicture": "https://i.ibb.co/71BVvtV/pexels-sides-imagery-3351927.jpg",
         "chefName": "John Smith",
         "yearsOfExperience": 9,
         "numberOfRecipes": 60,
@@ -76,7 +76,7 @@
     },
     {
         "id": 6,
-        "chefPicture": "https://example.com/chef1.jpg",
+        "chefPicture": "https://i.ibb.co/3MpwpW1/pexels-miquel-ferran-gomez-figueroa-3814446.jpg",
         "chefName": "John Katra",
         "yearsOfExperience": 15,
         "numberOfRecipes": 58,
