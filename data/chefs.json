@@ -6,18 +6,14 @@
         "yearsOfExperience": 10,
         "numberOfRecipes": 50,
         "likes": 100,
-        "bio": "John Smith is a renowned chef with over 10 years of experience in the industry. He has created over 50 unique recipes that have earned him a loyal following of food enthusiasts. In his free time, John enjoys experimenting with new ingredients and techniques to create innovative dishes.",
-        "recipes": [
-            {
-                "recipeTitle": "Paella Valenciana",
-                "ingredients": [
-                    "2 cups of short-grain Spanish rice",
-                    "4 cups of chicken broth",
-                    "1/2 pound of rabbit meat",
-                    "1/2 pound of chicken meat",
-                    "1/4 cup of olive oil"
-                ]
-            }
+        "bio": "Juan's unique style of cooking has won him numerous accolades and recognition in the culinary world. He is known for his signature dishes, which often incorporate fresh seafood, aromatic spices, and locally sourced ingredients. Juan's culinary philosophy is based on simplicity, balance, and a deep respect for the ingredients he uses.Juan is a true ambassador of Spanish cuisine, and his cooking has brought him fans from all over the world. He continues to inspire and delight food lovers with his innovative and delicious dishes, showcasing the rich flavors and traditions of his beloved country.",
+        "recipeTitle": "Paella Valenciana",
+        "ingredients": [
+            "2 cups of short-grain Spanish rice",
+            "4 cups of chicken broth",
+            "1/2 pound of rabbit meat",
+            "1/2 pound of chicken meat",
+            "1/4 cup of olive oil"
         ]
     },
     {
@@ -28,17 +24,13 @@
         "numberOfRecipes": 51,
         "likes": 101,
         "bio": "John Smith is a renowned chef with over 10 years of experience in the industry. He has created over 50 unique recipes that have earned him a loyal following of food enthusiasts. In his free time, John enjoys experimenting with new ingredients and techniques to create innovative dishes.",
-        "recipes": [
-            {
-                "recipeTitle": "Paella Valenciana",
-                "ingredients": [
-                    "2 cups of short-grain Spanish rice",
-                    "4 cups of chicken broth",
-                    "1/2 pound of rabbit meat",
-                    "1/2 pound of chicken meat",
-                    "1/4 cup of olive oil"
-                ]
-            }
+        "recipeTitle": "Paella Valenciana",
+        "ingredients": [
+            "2 cups of short-grain Spanish rice",
+            "4 cups of chicken broth",
+            "1/2 pound of rabbit meat",
+            "1/2 pound of chicken meat",
+            "1/4 cup of olive oil"
         ]
     },
     {
@@ -49,17 +41,13 @@
         "numberOfRecipes": 48,
         "likes": 70,
         "bio": "John Smith is a renowned chef with over 10 years of experience in the industry. He has created over 50 unique recipes that have earned him a loyal following of food enthusiasts. In his free time, John enjoys experimenting with new ingredients and techniques to create innovative dishes.",
-        "recipes": [
-            {
-                "recipeTitle": "Paella Valenciana",
-                "ingredients": [
-                    "2 cups of short-grain Spanish rice",
-                    "4 cups of chicken broth",
-                    "1/2 pound of rabbit meat",
-                    "1/2 pound of chicken meat",
-                    "1/4 cup of olive oil"
-                ]
-            }
+        "recipeTitle": "Paella Valenciana",
+        "ingredients": [
+            "2 cups of short-grain Spanish rice",
+            "4 cups of chicken broth",
+            "1/2 pound of rabbit meat",
+            "1/2 pound of chicken meat",
+            "1/4 cup of olive oil"
         ]
     },
     {
@@ -70,17 +58,13 @@
         "numberOfRecipes": 57,
         "likes": 105,
         "bio": "John Smith is a renowned chef with over 10 years of experience in the industry. He has created over 50 unique recipes that have earned him a loyal following of food enthusiasts. In his free time, John enjoys experimenting with new ingredients and techniques to create innovative dishes.",
-        "recipes": [
-            {
-                "recipeTitle": "Paella Valenciana",
-                "ingredients": [
-                    "2 cups of short-grain Spanish rice",
-                    "4 cups of chicken broth",
-                    "1/2 pound of rabbit meat",
-                    "1/2 pound of chicken meat",
-                    "1/4 cup of olive oil"
-                ]
-            }
+        "recipeTitle": "Paella Valenciana",
+        "ingredients": [
+            "2 cups of short-grain Spanish rice",
+            "4 cups of chicken broth",
+            "1/2 pound of rabbit meat",
+            "1/2 pound of chicken meat",
+            "1/4 cup of olive oil"
         ]
     },
     {
@@ -91,17 +75,13 @@
         "numberOfRecipes": 60,
         "likes": 9,
         "bio": "John Smith is a renowned chef with over 10 years of experience in the industry. He has created over 50 unique recipes that have earned him a loyal following of food enthusiasts. In his free time, John enjoys experimenting with new ingredients and techniques to create innovative dishes.",
-        "recipes": [
-            {
-                "recipeTitle": "Paella Valenciana",
-                "ingredients": [
-                    "2 cups of short-grain Spanish rice",
-                    "4 cups of chicken broth",
-                    "1/2 pound of rabbit meat",
-                    "1/2 pound of chicken meat",
-                    "1/4 cup of olive oil"
-                ]
-            }
+        "recipeTitle": "Paella Valenciana",
+        "ingredients": [
+            "2 cups of short-grain Spanish rice",
+            "4 cups of chicken broth",
+            "1/2 pound of rabbit meat",
+            "1/2 pound of chicken meat",
+            "1/4 cup of olive oil"
         ]
     },
     {
@@ -112,17 +92,13 @@
         "numberOfRecipes": 58,
         "likes": 112,
         "bio": "John Smith is a renowned chef with over 10 years of experience in the industry. He has created over 50 unique recipes that have earned him a loyal following of food enthusiasts. In his free time, John enjoys experimenting with new ingredients and techniques to create innovative dishes.",
-        "recipes": [
-            {
-                "recipeTitle": "Paella Valenciana",
-                "ingredients": [
-                    "2 cups of short-grain Spanish rice",
-                    "4 cups of chicken broth",
-                    "1/2 pound of rabbit meat",
-                    "1/2 pound of chicken meat",
-                    "1/4 cup of olive oil"
-                ]
-            }
+        "recipeTitle": "Paella Valenciana",
+        "ingredients": [
+            "2 cups of short-grain Spanish rice",
+            "4 cups of chicken broth",
+            "1/2 pound of rabbit meat",
+            "1/2 pound of chicken meat",
+            "1/4 cup of olive oil"
         ]
     }
 ]
