@@ -1,36 +1,82 @@
 [
     {
         "id": 1,
-        "chefPicture": "https://i.ibb.co/jJCYT09/pexels-ron-lach-8879620.jpg",
+        "chefPicture": "https://i.ibb.co/K7V8DKG/lasse-bergqvist-TYj7ey6xn9-M-unsplash.jpg",
         "chefName": "John Smith",
         "yearsOfExperience": 10,
         "numberOfRecipes": 50,
         "likes": 100,
         "bio": "Juan's unique style of cooking has won him numerous accolades and recognition in the culinary world. He is known for his signature dishes, which often incorporate fresh seafood, aromatic spices, and locally sourced ingredients. Juan's culinary philosophy is based on simplicity, balance, and a deep respect for the ingredients he uses.Juan is a true ambassador of Spanish cuisine, and his cooking has brought him fans from all over the world. He continues to inspire and delight food lovers with his innovative and delicious dishes, showcasing the rich flavors and traditions of his beloved country.",
-        "recipeTitle": "Paella Valenciana",
-        "ingredients": [
-            "2 cups of short-grain Spanish rice",
-            "4 cups of chicken broth",
-            "1/2 pound of rabbit meat",
-            "1/2 pound of chicken meat",
-            "1/4 cup of olive oil"
+        "recipes": [
+            {
+                "recipeTitle": "Paella Valenciana",
+                "ingredients": [
+                    "2 cups of short-grain Spanish rice",
+                    "4 cups of chicken broth",
+                    "1/2 pound of rabbit meat",
+                    "1/2 pound of chicken meat"
+                ]
+            },
+            {
+                "recipeTitle": "Spaghetti Carbonara",
+                "ingredients": [
+                    "2 cups of short-grain Spanish rice",
+                    "4 cups of chicken broth",
+                    "1/2 pound of rabbit meat",
+                    "1/2 pound of chicken meat",
+                    "1/4 cup of olive oil"
+                ]
+            },
+            {
+                "recipeTitle": "Chicken Parmesan",
+                "ingredients": [
+                    "2 cups of short-grain Spanish rice",
+                    "4 cups of chicken broth",
+                    "1/2 pound of rabbit meat",
+                    "1/2 pound of chicken meat",
+                    "1/4 cup of olive oil"
+                ]
+            }
         ]
     },
     {
         "id": 2,
-        "chefPicture": "https://i.ibb.co/Mfwtgj6/pexels-cottonbro-studio-4253706.jpg",
+        "chefPicture": "https://i.ibb.co/K9mTSdH/johnathan-macedo-4-NQEvx-W2-4w-unsplash.jpg",
         "chefName": "John Doe",
         "yearsOfExperience": 11,
         "numberOfRecipes": 51,
         "likes": 101,
         "bio": "John Smith is a renowned chef with over 10 years of experience in the industry. He has created over 50 unique recipes that have earned him a loyal following of food enthusiasts. In his free time, John enjoys experimenting with new ingredients and techniques to create innovative dishes.",
-        "recipeTitle": "Paella Valenciana",
-        "ingredients": [
-            "2 cups of short-grain Spanish rice",
-            "4 cups of chicken broth",
-            "1/2 pound of rabbit meat",
-            "1/2 pound of chicken meat",
-            "1/4 cup of olive oil"
+        "recipes": [
+            {
+                "recipeTitle": "Fish Tacos",
+                "ingredients": [
+                    "2 cups of short-grain Spanish rice",
+                    "4 cups of chicken broth",
+                    "1/2 pound of rabbit meat",
+                    "1/2 pound of chicken meat"
+                ]
+            },
+            {
+                "recipeTitle": "Pad Thai",
+                "ingredients": [
+                    "2 cups of short-grain Spanish rice",
+                    "4 cups of chicken broth",
+                    "1/2 pound of rabbit meat",
+                    "1/2 pound of chicken meat",
+                    "1/4 cup of olive oil"
+                ]
+            },
+            {
+                "recipeTitle": "Chicken Tikka Masala",
+                "ingredients": [
+                    "2 cups of short-grain Spanish rice",
+                    "4 cups of chicken broth",
+                    "1/2 pound of rabbit meat",
+                    "1/2 pound of chicken meat",
+                    "1/4 cup of olive oil"
+                ]
+            }
         ]
     },
     {
@@ -41,64 +87,156 @@
         "numberOfRecipes": 48,
         "likes": 70,
         "bio": "John Smith is a renowned chef with over 10 years of experience in the industry. He has created over 50 unique recipes that have earned him a loyal following of food enthusiasts. In his free time, John enjoys experimenting with new ingredients and techniques to create innovative dishes.",
-        "recipeTitle": "Paella Valenciana",
-        "ingredients": [
-            "2 cups of short-grain Spanish rice",
-            "4 cups of chicken broth",
-            "1/2 pound of rabbit meat",
-            "1/2 pound of chicken meat",
-            "1/4 cup of olive oil"
+        "recipes": [
+            {
+                "recipeTitle": "Lobster Bisque",
+                "ingredients": [
+                    "2 cups of short-grain Spanish rice",
+                    "4 cups of chicken broth",
+                    "1/2 pound of rabbit meat",
+                    "1/2 pound of chicken meat"
+                ]
+            },
+            {
+                "recipeTitle": "Shrimp Scampi",
+                "ingredients": [
+                    "2 cups of short-grain Spanish rice",
+                    "4 cups of chicken broth",
+                    "1/2 pound of rabbit meat",
+                    "1/2 pound of chicken meat",
+                    "1/4 cup of olive oil"
+                ]
+            },
+            {
+                "recipeTitle": "Vegetable Stir Fry",
+                "ingredients": [
+                    "2 cups of short-grain Spanish rice",
+                    "4 cups of chicken broth",
+                    "1/2 pound of rabbit meat",
+                    "1/2 pound of chicken meat",
+                    "1/4 cup of olive oil"
+                ]
+            }
         ]
     },
     {
         "id": 4,
-        "chefPicture": "https://i.ibb.co/XxF20mn/pexels-gustavo-fring-6050337.jpg",
+        "chefPicture": "https://i.ibb.co/7jLvt21/rc-cf-FMh5o5m5-N9-E-unsplash.jpg",
         "chefName": "John Smith",
         "yearsOfExperience": 8,
         "numberOfRecipes": 57,
         "likes": 105,
         "bio": "John Smith is a renowned chef with over 10 years of experience in the industry. He has created over 50 unique recipes that have earned him a loyal following of food enthusiasts. In his free time, John enjoys experimenting with new ingredients and techniques to create innovative dishes.",
-        "recipeTitle": "Paella Valenciana",
-        "ingredients": [
-            "2 cups of short-grain Spanish rice",
-            "4 cups of chicken broth",
-            "1/2 pound of rabbit meat",
-            "1/2 pound of chicken meat",
-            "1/4 cup of olive oil"
+        "recipes": [
+            {
+                "recipeTitle": "Mushroom Risotto",
+                "ingredients": [
+                    "2 cups of short-grain Spanish rice",
+                    "4 cups of chicken broth",
+                    "1/2 pound of rabbit meat",
+                    "1/2 pound of chicken meat"
+                ]
+            },
+            {
+                "recipeTitle": "Classic French Onion Soup",
+                "ingredients": [
+                    "2 cups of short-grain Spanish rice",
+                    "4 cups of chicken broth",
+                    "1/2 pound of rabbit meat",
+                    "1/2 pound of chicken meat",
+                    "1/4 cup of olive oil"
+                ]
+            },
+            {
+                "recipeTitle": "Italian Spaghetti Carbonara",
+                "ingredients": [
+                    "2 cups of short-grain Spanish rice",
+                    "4 cups of chicken broth",
+                    "1/2 pound of rabbit meat",
+                    "1/2 pound of chicken meat",
+                    "1/4 cup of olive oil"
+                ]
+            }
         ]
     },
     {
         "id": 5,
-        "chefPicture": "https://i.ibb.co/71BVvtV/pexels-sides-imagery-3351927.jpg",
+        "chefPicture": "https://i.ibb.co/vHWxFv5/pexels-andrea-piacquadio-3769739.jpg",
         "chefName": "John Smith",
         "yearsOfExperience": 9,
         "numberOfRecipes": 60,
         "likes": 9,
         "bio": "John Smith is a renowned chef with over 10 years of experience in the industry. He has created over 50 unique recipes that have earned him a loyal following of food enthusiasts. In his free time, John enjoys experimenting with new ingredients and techniques to create innovative dishes.",
-        "recipeTitle": "Paella Valenciana",
-        "ingredients": [
-            "2 cups of short-grain Spanish rice",
-            "4 cups of chicken broth",
-            "1/2 pound of rabbit meat",
-            "1/2 pound of chicken meat",
-            "1/4 cup of olive oil"
+        "recipes": [
+            {
+                "recipeTitle": "Butter Chicken",
+                "ingredients": [
+                    "2 cups of short-grain Spanish rice",
+                    "4 cups of chicken broth",
+                    "1/2 pound of rabbit meat",
+                    "1/2 pound of chicken meat"
+                ]
+            },
+            {
+                "recipeTitle": " Tacos Al Pastor",
+                "ingredients": [
+                    "2 cups of short-grain Spanish rice",
+                    "4 cups of chicken broth",
+                    "1/2 pound of rabbit meat",
+                    "1/2 pound of chicken meat",
+                    "1/4 cup of olive oil"
+                ]
+            },
+            {
+                "recipeTitle": "Tempura Shrimp",
+                "ingredients": [
+                    "2 cups of short-grain Spanish rice",
+                    "4 cups of chicken broth",
+                    "1/2 pound of rabbit meat",
+                    "1/2 pound of chicken meat",
+                    "1/4 cup of olive oil"
+                ]
+            }
         ]
     },
     {
         "id": 6,
-        "chefPicture": "https://i.ibb.co/3MpwpW1/pexels-miquel-ferran-gomez-figueroa-3814446.jpg",
+        "chefPicture": "https://i.ibb.co/R2vw6Sb/pexels-rene-asmussen-2544829.jpg",
         "chefName": "John Katra",
         "yearsOfExperience": 15,
         "numberOfRecipes": 58,
         "likes": 112,
         "bio": "John Smith is a renowned chef with over 10 years of experience in the industry. He has created over 50 unique recipes that have earned him a loyal following of food enthusiasts. In his free time, John enjoys experimenting with new ingredients and techniques to create innovative dishes.",
-        "recipeTitle": "Paella Valenciana",
-        "ingredients": [
-            "2 cups of short-grain Spanish rice",
-            "4 cups of chicken broth",
-            "1/2 pound of rabbit meat",
-            "1/2 pound of chicken meat",
-            "1/4 cup of olive oil"
+        "recipes": [
+            {
+                "recipeTitle": "Spanakopita",
+                "ingredients": [
+                    "2 cups of short-grain Spanish rice",
+                    "4 cups of chicken broth",
+                    "1/2 pound of rabbit meat",
+                    "1/2 pound of chicken meat"
+                ]
+            },
+            {
+                "recipeTitle": "Kimchi Fried Rice",
+                "ingredients": [
+                    "2 cups of short-grain Spanish rice",
+                    "4 cups of chicken broth",
+                    "1/2 pound of rabbit meat",
+                    "1/2 pound of chicken meat",
+                    "1/4 cup of olive oil"
+                ]
+            },
+            {
+                "recipeTitle": "Chicken Tagine",
+                "ingredients": [
+                    "2 cups of short-grain Spanish rice",
+                    "4 cups of chicken broth",
+                    "1/2 pound of rabbit meat",
+                    "1/2 pound of chicken meat",
+                    "1/4 cup of olive oil"
+                ]
+            }
         ]
     }
 ]
